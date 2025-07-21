@@ -23,5 +23,5 @@ If you’re working in **data or analytics**, I’d love to **connect and learn 
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/anurag-singh-8b2b6023a/) | 📧 anurag@example.com
+[LinkedIn](https://www.linkedin.com/in/anurag-singh-8b2b6023a/) | 📧 anurag.331.as@gmail.com
 
