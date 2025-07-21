@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Anurag Singh
 
-<!--
-**anuragsingh331/anuragsingh331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 📊 SQL • Python • Excel • Data Visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I’m Anurag, an aspiring data analyst who loves working with numbers, solving problems, and uncovering hidden stories in data.
+
+I’m currently sharpening my skills through online courses and hands-on personal projects. My toolkit includes:
+
+- **SQL** – for querying and manipulating data  
+- **Python** – for data cleaning, analysis, and automation  
+- **Excel** – for dashboards, data wrangling, and quick insights  
+
+I enjoy working with real-world datasets, cleaning messy data, and turning it into valuable insights through visualizations and analysis.
+
+---
+
+🚀 **Passionate about continuous learning**, I’m looking for opportunities to grow, apply my skills, and contribute to impactful projects.
+
+If you’re working in **data or analytics**, I’d love to **connect and learn from your journey**!
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/anurag-singh-8b2b6023a/) | 📧 anurag@example.com
+
