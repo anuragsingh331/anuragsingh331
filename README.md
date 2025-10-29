@@ -61,7 +61,7 @@ Currently, I'm pursuing my **B.Tech in Information Technology** from **D.Y. Pati
 ---
 
 ## 📫 Connect With Me  
-📧 **Email:** [anurag.as.331@gmail.com](mailto:anurag.as.331@gmail.com)  
+📧 **Email:** [anuragxsingh@gmail.com](mailto:anuragxsingh@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/anuragsingh2405](https://www.linkedin.com/in/anuragsingh2405)  
 💻 **GitHub:** [github.com/anuragsingh331](https://github.com/anuragsingh331)  
 🧠 **LeetCode:** [leetcode.com/u/Anuragsingh331](https://leetcode.com/u/Anuragsingh331)  
